@@ -1,4 +1,15 @@
 @media (max-width: 1200px){
+    .prev{
+        display: none;
+    }
+    .next{
+        display: none;
+    }
+    .carousel{
+        .tns-nav{
+            display: flex;
+        }
+    }
 
 }
 @media (max-width: 991px){
